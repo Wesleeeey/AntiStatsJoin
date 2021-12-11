@@ -9,4 +9,4 @@
 ## Liens
 
 *   [Discord](https://discord.gg/)
-*   [Github](https://github.com/Wesle
+*   [Github](https://github.com/Wesleeey)
